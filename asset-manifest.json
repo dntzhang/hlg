@@ -1,18 +1,9 @@
 {
-  "index.js": "./static/js/index.d66ff3f8.js",
-  "index.js.map": "./static/js/index.d66ff3f8.js.map",
+  "index.js": "./static/js/index.1049b721.js",
+  "index.js.map": "./static/js/index.1049b721.js.map",
   "index.html": "./index.html",
   "static/media/bg-end.jpg": "./static/media/bg-end.983f19a1.jpg",
-  "static/media/bg-flash.jpg": "./static/media/bg-flash.3c661551.jpg",
-  "static/media/cat.png": "./static/media/cat.55d89795.png",
   "static/media/cat.mp3": "./static/media/cat.5db131e9.mp3",
   "static/media/door.mp3": "./static/media/door.350ce71e.mp3",
-  "static/media/door.png": "./static/media/door.6b7cee48.png",
-  "static/media/logo-word.png": "./static/media/logo-word.3f6ac19e.png",
-  "static/media/logo-wording.png": "./static/media/logo-wording.6a0ddf42.png",
-  "static/media/mask.png": "./static/media/mask.bad897ee.png",
-  "static/media/open-door.png": "./static/media/open-door.a662a744.png",
-  "static/media/rb.mp3": "./static/media/rb.c54d5fa5.mp3",
-  "static/media/room.jpg": "./static/media/room.02bf5773.jpg",
-  "static/media/wording.png": "./static/media/wording.871cbb8d.png"
+  "static/media/rb.mp3": "./static/media/rb.c54d5fa5.mp3"
 }
