@@ -1,6 +1,9 @@
 {
-  "index.js": "./static/js/index.c3934095.js",
-  "index.js.map": "./static/js/index.c3934095.js.map",
+  "hlg.js": "./static/js/hlg.020ac92a.js",
+  "hlg.js.map": "./static/js/hlg.020ac92a.js.map",
+  "index.js": "./static/js/index.49e8344a.js",
+  "index.js.map": "./static/js/index.49e8344a.js.map",
+  "hlg.html": "./hlg.html",
   "index.html": "./index.html",
   "static/media/bg-end.jpg": "./static/media/bg-end.983f19a1.jpg"
 }
