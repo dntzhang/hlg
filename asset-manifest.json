@@ -1,9 +1,6 @@
 {
-  "index.js": "./static/js/index.eca9475c.js",
-  "index.js.map": "./static/js/index.eca9475c.js.map",
+  "index.js": "./static/js/index.467119c0.js",
+  "index.js.map": "./static/js/index.467119c0.js.map",
   "index.html": "./index.html",
-  "static/media/bg-end.jpg": "./static/media/bg-end.983f19a1.jpg",
-  "static/media/cat.mp3": "./static/media/cat.5db131e9.mp3",
-  "static/media/door.mp3": "./static/media/door.350ce71e.mp3",
-  "static/media/rb.mp3": "./static/media/rb.c54d5fa5.mp3"
+  "static/media/bg-end.jpg": "./static/media/bg-end.983f19a1.jpg"
 }
